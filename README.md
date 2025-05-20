@@ -11,6 +11,8 @@ AI-SST Vision es una aplicación que implementa inteligencia artificial multimod
 
 La herramienta asiste en la supervisión de tareas, el análisis preventivo, y la generación automática de informes, convirtiéndose en un asistente experto en SST capaz de operar de forma autónoma o complementaria a la supervisión humana.
 
+Video de la situacion: https://www.youtube.com/watch?v=cyszmoj7ya4&ab_channel=Secretar%C3%ADadelTrabajoyPrevisi%C3%B3nSocial
+
 🎯 Objetivo
 Aplicar IA para la detección de riesgos laborales.
 
